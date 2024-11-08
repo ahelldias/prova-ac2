@@ -1,0 +1,12 @@
+.color::placeholder{
+    color: gray;
+}
+
+.caixa{
+    border: 2px grey solid;
+    border-radius: 5px;
+    padding: 10px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+}
